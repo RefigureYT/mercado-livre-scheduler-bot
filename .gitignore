@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Arquivos de credenciais e cookies
+cred.json
+cookies/*.json
+
+# Dados de usuário do Chrome criados pelo Puppeteer
+user_data/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db

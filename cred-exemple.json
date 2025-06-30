@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "name": "name",
+            "cookieFileName": "cookieFileName",
+            "sigla": "sigla"
+        },
+        {
+            "id": 2,
+            "name": "name",
+            "cookieFileName": "cookieFileName",
+            "sigla": "sigla"
+        },
+        {
+            "id": 3,
+            "name": "name",
+            "cookieFileName": "cookieFileName",
+            "sigla": "sigla"
+        }
+    ]
+}
