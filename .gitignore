@@ -11,3 +11,9 @@ user_data/
 # Arquivos de sistema operacional
 .DS_Store
 Thumbs.db
+
+# Pasta com testes em Pyhon
+Python/
+
+# Teste
+tabelaTeclas-ERR.json
